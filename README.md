@@ -1,5 +1,7 @@
 # Prototype Scikit-learn ML Model with Streamlit App
-Build, visualize, and deploy a Scikit-learn machine learning model using Streamlit for the UI, Docker for containerization, and Kubernetes (Minikube) for scalable deployment! 
+In this step-by-step tutorial, learn how to build, visualize, and deploy a Scikit-learn machine learning model using Streamlit for the UI, Docker for containerization, and Kubernetes (Minikube) for scalable deployment! 
+
+YouTube Link: https://youtu.be/Ska5_d63mLM?si=Xug9kxJoxheblrsu
 
 ## Requirements
 1. Python
